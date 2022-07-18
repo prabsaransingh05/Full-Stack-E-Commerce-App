@@ -1,0 +1,2 @@
+# Full-Stack-E-Commerce-App
+Created a cross platform e-commerce app that works on Android and iOS using Flutter, Node.js, Express, Mongoose, MongoDB, Cloudinary. Key features include authentication with email/password, cart, searching products, fetching products based on category, rating products, fetching deal of the day, checking out using GPay/Apple Pay, viewing the orders, viewing and graphing total sales.
